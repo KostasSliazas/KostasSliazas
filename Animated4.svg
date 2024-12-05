@@ -1,0 +1,15 @@
+<svg id="svg8" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path id="plus" d="M21.8 0v22.4H0v20.4h21.8V64h20.4V42.8H64V22.4H42.2V0z" fill="#798" />
+    <path id="reca1" fill-opacity="0" d="M0 0h64v64H0z" />
+    <path id="reca2" fill-opacity="0" d="M0 0h64v64H0z" />
+    
+    <animate id="anims0" attributeName="d" begin="reca2.click" dur="200ms" repeatCount="0" to="m 21.822266,22.392578 v 0 H 0 V 42.75 h 21.822266 v 0 h 20.355468 v 0 H 64 V 22.392578 H 42.177734 v 0 z" xlink:href="#plus" fill="freeze" />
+    <animate id="anims1" attributeName="fill" begin="anims0.end" dur="100ms" repeatCount="0" to="#978" xlink:href="#plus" fill="freeze" />
+    <animate id="anims4" attributeName="d" begin="reca1.click" dur="200ms" repeatCount="0" to="M 21.822266,0 V 22.392578 H 0 V 42.75 H 21.822266 V 64 H 42.177734 V 42.75 H 64 V 22.392578 H 42.177734 V 0 Z" xlink:href="#plus" fill="freeze" />
+    <animate id="anims5" attributeName="fill" begin="anims4.end" dur="100ms" repeatCount="0" to="#798" xlink:href="#plus" fill="freeze" />
+    
+    <animateTransform id="anims2" attributeName="transform" begin="anims1.end" dur="1ms" repeatCount="0" to="1 1" type="scale" xlink:href="#reca1" fill="freeze" />
+    <animateTransform id="anims3" attributeName="transform" begin="anims2.end" dur="1ms" repeatCount="0" to="0 0" type="scale" xlink:href="#reca2" fill="freeze" />
+    <animateTransform id="anims6" attributeName="transform" begin="anims5.end" dur="1ms" repeatCount="0" to="0 0" type="scale" xlink:href="#reca1" fill="freeze" />
+    <animateTransform id="anims7" attributeName="transform" begin="anims6.end" dur="1ms" repeatCount="0" to="1 1" type="scale" xlink:href="#reca2" fill="freeze" />
+</svg>
