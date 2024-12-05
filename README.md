@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="vertical-align: top;">
       <h2>🚀 My Projects</h2>
       <ul>
         <li><a href="https://kostassliazas.github.io/burundukas/">Webpage about chipmunks</a></li>
@@ -15,7 +15,7 @@
         <li><a href="https://kostassliazas.github.io/calculator/">Calculator</a></li>
       </ul>
     </td>
-    <td>
+    <td style="vertical-align: top;">
       <h2>🛠️ Skills</h2>
       <ul>
         <li><b>Languages:</b> JavaScript, HTML, CSS</li>
