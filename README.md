@@ -14,7 +14,7 @@ Here are a few projects:
       - <b><a href="https://kostassliazas.github.io/calculator/">Calculator</a></b>
     </td>
     <td rowspan="7" style="text-align: center; vertical-align: middle;">
-      <img src="battery.svg" alt="wi-fi" width="50">
+      <img src="battery.svg" alt="wi-fi">
     </td>
   </tr>
 </table>
