@@ -2,17 +2,53 @@
 ---
 ## 🚀 My Projects
 Here are a few projects:
-- **[Webpage about chipmunks](https://kostassliazas.github.io/burundukas/)**  
-- **[Europass Maker Offline](https://kostassliazas.github.io/Europass-Maker-Offline/)**
-- **[Questionnaire-game](https://kostassliazas.github.io/project-k/games/questionnaire/)**
-- **[Memory-game](https://kostassliazas.github.io/memory-game2.github.io/)**
-- **[Project-kitten](https://kostassliazas.github.io/project-k)**     
-- **[Image-gallery](https://kostassliazas.github.io/gallery/)**  
-- **[Calculator](https://kostassliazas.github.io/calculator/)**
+<table>
+  <tr>
+    <td>
+      - <b><a href="https://kostassliazas.github.io/burundukas/">Webpage about chipmunks</a></b><br>
+      <img src="battery.svg" alt="wi-fi" width="20">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      - <b><a href="https://kostassliazas.github.io/Europass-Maker-Offline/">Europass Maker Offline</a></b><br>
+      <img src="battery.svg" alt="wi-fi" width="20">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      - <b><a href="https://kostassliazas.github.io/project-k/games/questionnaire/">Questionnaire-game</a></b><br>
+      <img src="battery.svg" alt="wi-fi" width="20">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      - <b><a href="https://kostassliazas.github.io/memory-game2.github.io/">Memory-game</a></b><br>
+      <img src="battery.svg" alt="wi-fi" width="20">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      - <b><a href="https://kostassliazas.github.io/project-k">Project-kitten</a></b><br>
+      <img src="battery.svg" alt="wi-fi" width="20">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      - <b><a href="https://kostassliazas.github.io/gallery/">Image-gallery</a></b><br>
+      <img src="battery.svg" alt="wi-fi" width="20">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      - <b><a href="https://kostassliazas.github.io/calculator/">Calculator</a></b><br>
+      <img src="battery.svg" alt="wi-fi" width="20">
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🛠️ Skills
 - **Languages**: JavaScript, HTML, CSS
   
 Thanks for visiting! Feel free to reach out or contribute to my projects. 😊
-![wi-fi](battery.svg)
