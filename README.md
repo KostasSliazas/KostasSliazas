@@ -4,7 +4,7 @@
 ## 🚀 My Projects
 Here are a few projects:
 
-- **[Project-kitten]([https://github.com/KostasSliazas/mysql-guide](https://github.com/KostasSliazas/project-k))**    
+- **[Project-kitten](https://github.com/KostasSliazas/project-k)**    
   
 - **[Image-gallery](https://kostassliazas.github.io/gallery/)**  
 
