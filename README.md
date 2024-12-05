@@ -2,13 +2,14 @@
 ---
 ## 🚀 My Projects
 Here are a few projects:
+- **[Webpage about chipmunks](https://kostassliazas.github.io/burundukas/)**  
+- **[Europass Maker Offline](https://kostassliazas.github.io/Europass-Maker-Offline/)**
+- **[Questionnaire-game](https://kostassliazas.github.io/project-k/games/questionnaire/)**
 - **[Project-kitten](https://kostassliazas.github.io/project-k)**     
 - **[Image-gallery](https://kostassliazas.github.io/gallery/)**  
-- **[Webpage about chipmunks](https://kostassliazas.github.io/burundukas/)**  
-- **[calculator](https://kostassliazas.github.io/calculator/)**
-- **[Europass Maker Offline](https://kostassliazas.github.io/Europass-Maker-Offline/)**
 - **[Memory-game](https://kostassliazas.github.io/memory-game2.github.io/)**
-- **[Questionnaire-game](https://kostassliazas.github.io/project-k/games/questionnaire/)**
+- **[Calculator](https://kostassliazas.github.io/calculator/)**
+
 ---
 ## 🛠️ Skills
 - **Languages**: JavaScript, HTML, CSS
