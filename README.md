@@ -5,7 +5,7 @@ Here are a few projects:
 
 <table>
   <tr>
-    <td style="text-align: center; vertical-align: middle; width: 50">
+    <td style="text-align: center; vertical-align: middle;">
       - <b><a href="https://kostassliazas.github.io/burundukas/">Webpage about chipmunks</a></b><br>
       - <b><a href="https://kostassliazas.github.io/Europass-Maker-Offline/">Europass Maker Offline</a></b><br>
       - <b><a href="https://kostassliazas.github.io/project-k/games/questionnaire/">Questionnaire-game</a></b><br>
@@ -13,9 +13,6 @@ Here are a few projects:
       - <b><a href="https://kostassliazas.github.io/project-k">Project-kitten</a></b><br>
       - <b><a href="https://kostassliazas.github.io/gallery/">Image-gallery</a></b><br>
       - <b><a href="https://kostassliazas.github.io/calculator/">Calculator</a></b>
-    </td>
-    <td rowspan="7" style="text-align: center; vertical-align: middle; width: 50">
-      <img src="battery.svg" alt="wi-fi" width="100" height="100">
     </td>
   </tr>
 </table>
