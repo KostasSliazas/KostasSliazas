@@ -2,6 +2,7 @@
 ---
 ## 🚀 My Projects
 Here are a few projects:
+
 <table>
   <tr>
     <td style="text-align: center; vertical-align: middle; width: 50">
@@ -18,6 +19,7 @@ Here are a few projects:
     </td>
   </tr>
 </table>
+
 ---
 ## 🛠️ Skills
 - **Languages**: JavaScript, HTML, CSS
