@@ -4,11 +4,11 @@
 ## 🚀 My Projects
 Here are a few projects:
 
-- **[Project-kitten](https://github.com/KostasSliazas/project-k)**    
+- **[Project-kitten](https://kostassliazas.github.io/project-k)**    
   
 - **[Image-gallery](https://kostassliazas.github.io/gallery/)**  
 
-- **[Webpage about chipmunks](https://github.com/KostasSliazas?tab=repositories)**  
+- **[Webpage about chipmunks](https://kostassliazas.github.io/burundukas/)**  
 
 - **[calculator](https://kostassliazas.github.io/calculator/)**
 ---
