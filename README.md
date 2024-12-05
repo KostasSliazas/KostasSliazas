@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**KostasSliazas/KostasSliazas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🚀 My Projects
+Here are a few projects:
 
-Here are some ideas to get you started:
+- **[Project-kitten]([https://github.com/KostasSliazas/mysql-guide](https://github.com/KostasSliazas/project-k))**    
+  
+- **[Image-gallery](https://kostassliazas.github.io/gallery/)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Webpage about chipmunks](https://github.com/KostasSliazas?tab=repositories)**  
+
+- **[calculator](https://kostassliazas.github.io/calculator/)**
+---
+
+## 🛠️ Skills and Tools
+- **Languages**: JavaScript, HTML, CSS
+
+Thanks for visiting! Feel free to reach out or contribute to my projects. 😊
