@@ -12,6 +12,7 @@ Here are a few projects:
 
 - **[calculator](https://kostassliazas.github.io/calculator/)**
 ---
+![wi-fi](wifi.svg)
 
 ## 🛠️ Skills and Tools
 - **Languages**: JavaScript, HTML, CSS
