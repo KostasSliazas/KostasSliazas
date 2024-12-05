@@ -6,6 +6,7 @@ Here are a few projects:
 - **[Image-gallery](https://kostassliazas.github.io/gallery/)**  
 - **[Webpage about chipmunks](https://kostassliazas.github.io/burundukas/)**  
 - **[calculator](https://kostassliazas.github.io/calculator/)**
+- **[Europass Maker Offline](https://kostassliazas.github.io/Europass-Maker-Offline/)**
 ---
 ## 🛠️ Skills
 - **Languages**: JavaScript, HTML, CSS
