@@ -8,6 +8,6 @@ Here are a few projects:
 - **[calculator](https://kostassliazas.github.io/calculator/)**
 ---
 ## 🛠️ Skills and Tools
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**: JavaScript, HTML, CSS**
 Thanks for visiting! Feel free to reach out or contribute to my projects. 😊
 ![wi-fi](battery.svg)
