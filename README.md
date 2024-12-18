@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate creator and problem-solver. Here'
 ## 📈 GitHub Stats
 ![KostasSliazas's GitHub stats](https://github-readme-stats.vercel.app/api?username=KostasSliazas&show_icons=true&theme=radical)
 
-## 🔗 Connect with chipmunks 
-![Chipmunks home page](https://kostassliazas.github.io/burundukas/)
+## 🔗 Connect with chipmunks
+[Chipmunks home page](https://kostassliazas.github.io/burundukas/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas.
