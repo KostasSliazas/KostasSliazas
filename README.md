@@ -8,9 +8,10 @@ Hello! I'm a passionate developer who loves coding, learning new technologies, a
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KostasSliazas&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KostasSliazas&layout=compact&theme=radical)
+<p align="center">
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KostasSliazas&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KostasSliazas&layout=compact&theme=radical)
+</p>
 
 ---
 
