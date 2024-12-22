@@ -1,5 +1,5 @@
 <p align="center">
-  # Hi there! 👋 Welcome to My GitHub Profile
+  Hi there! 👋 Welcome to My GitHub Profile
 </p>
 
 <p align="center">
