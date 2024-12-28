@@ -1,5 +1,5 @@
 <p align="center">
-  Hi there! 👋 Welcome to My GitHub Profile
+  Hi there! 👋 Welcome to My GitHub Profile. I just finished my last projects , because I have big financial issues..
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KostasSliazas&show_icons=true&theme=radical" alt="Your GitHub Stats" height="165"/>
