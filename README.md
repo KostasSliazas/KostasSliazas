@@ -1,1 +1,1 @@
--
+I’ve officially ended my career as a creator, and you should consider doing the same—before you end up like me, bankrupt. Don’t waste your time. Go kiss a girl or boy, be happy, and just enjoy your life. As I said, nobody is going to give you money or donate. Go find love.
