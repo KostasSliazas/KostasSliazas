@@ -43,3 +43,4 @@ If you find any bugs (the code kind, not the 6-legged kind):
 ---
 ⭐️ Star this profile if you believe in the power of 7 hairs! ⭐️
 
+![happy-world](happy-world.png)
