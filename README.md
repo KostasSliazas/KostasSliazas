@@ -1,46 +1,9 @@
-# 😸 Welcome to My GitHub Profile - The 7-Haired Kitten Chronicles
+Here are some fun stats about my coding journey:
 
-## 🐾 About Me
-Hi there! I'm a coding wizard 🧙‍♂️ powered by coffee ☕ and the unconditional love of my kitten... who has exactly **7 hairs**. Yes, I counted them. Twice. 
+### 🏆 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubHandle&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 🔢 Why 7?
-7 is the perfect number:
-- 7 continents 🌍
-- 7 seas 🌊
-- 7 dwarfs 🧝‍♂️
-- 7 hairs on my kitten 🐈‍⬛
-- 7 bugs fixed (for now) 🐞
+### 📈 Languages I Speak
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubHandle&langs_count=10&layout=compact&theme=radical)
 
-## 📂 What You'll Find Here
-This profile is a treasure chest 🏴‍☠️ of code, ideas, and probably a few typos I left in to test your attention to detail. If you like:
-- Silly comments
-- Spaghetti code 🍝
-- Projects that might actually work
-
-Then you're in the right place! 🎉
-
-## 🛠️ Tech Stack
-- JavaScript for 6 hairs ✨
-- HTML for 1 shiny hair ✨
-- CSS to style all 7 hairs 🌈
-
-## 🤯 Fun Facts About Me
-- My kitten's hairs glow under UV light. (Or so I imagine.)
-- My code is faster than a cat chasing a laser pointer.
-- Commit messages are 50% jokes, 50% panicked debugging notes.
-
-## 🐾 How to Connect
-- Fork my projects 🍴
-- Clone and experiment 🧬
-- Count your cat's hairs (optional but recommended) 🧮
-- Create magic ✨
-
-## 📞 Contact Me
-If you find any bugs (the code kind, not the 6-legged kind):
-- Open an issue 🐛
-- Or send me a message via carrier pigeon 🕊️ (7 feathers preferred)
-
----
-⭐️ Star this profile if you believe in the power of 7 hairs! ⭐️
-
-![happy-world](happy-world.png)
+Thank you for visiting my stats profile! 🎉
