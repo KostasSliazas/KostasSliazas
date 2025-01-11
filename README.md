@@ -1,4 +1,5 @@
-Please don't follow me. In theory, I'm already dead because of bankruptcy; only practice is left, so there will not be any confusion.
+KostasSliazas/KostasSliazas is a special repository: its README.md
+
 ### 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KostasSliazas&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
