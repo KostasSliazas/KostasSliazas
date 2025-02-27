@@ -1,4 +1,4 @@
-<p align="center">This account was suspended for the user's protection after encountering discrimination and hate.</p>
+<p align="center">Hello,</p>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=KostasSliazas&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasSliazas&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
